@@ -1,6 +1,15 @@
 <div align="center">
-  <img src="https://github.com/JiWoongE/JiWoongE/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <h2 align="center">👋 Hi! I'm JiWoong 👋</h2>
 </div>
+  
+<br>
+
+<div align="center">
+  <h3 align="center">💻 Experience 💻</h3>
+Tech Titans - YOLOv8을 활용한 스마트폰 액정 불량 검출 서비스
+</div>
+
+<br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
