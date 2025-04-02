@@ -33,6 +33,8 @@ Tech Titans - YOLOv8을 활용한 스마트폰 액정 불량 검출 서비스
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
+<br>
+
 <h3 align="center">🏆  Awards 🏆</h3>
 <div align="center">
   🥇 Grand Prize – Smart Factory B2B Web Service
