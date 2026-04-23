@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3 align="center">💻 Experience 💻</h3>
-Tech Titans - YOLOv8을 활용한 스마트폰 액정 불량 검출 서비스
+Tech Titans - YOLOv8을 활용한 스마트폰 액정 불량 검출 서비스&nbsp
 지역별 창업 가능성을 분석하고 예상 매출을 제공하는 웹 서비스
 </div>
 
