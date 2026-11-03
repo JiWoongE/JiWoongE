@@ -33,7 +33,7 @@
 
 ## Awards
 
-- 최우수상 · PantryMate (2026)
+- 최우수상 · PantryMate, KT cloud TECH UP (2026)
 - 금상 · 한국정보기술학회 대학생 논문 경진대회 (2025)
 - 은상 · 경기대학교 심화캡스톤디자인 경진대회 (2025)
 - 대상 · Smart Factory B2B Web Service, K-Softvacation Showcase (2024)
